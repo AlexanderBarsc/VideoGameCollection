@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWdtdegDes0gdlyurcU2zzbj8FKYa1X74Tn97WXuNgWYbFdPiUibIr0JwpGPo4amCNZRHLed53MbT9M4cOWE9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z004fn5f\\source\\repos\\VideoGameCollection\\VideoGameCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z004fn5f\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\z004fn5f\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\z004fn5f\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\z004fn5f\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
